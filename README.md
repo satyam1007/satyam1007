@@ -2,9 +2,11 @@
 <h1 align="center">Hi 👋, I'm Satyam Mishra</h1>
 <h3 align="center">I am a student learning programming</h3>
 
+- 🔭 I’m currently working on **Programming**
+
 - 🌱 I’m currently learning **SQL**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, Bootstrap, Tailwind**
 
 - 📫 How to reach me **satyammishradeveloper@gmail.com**
 
