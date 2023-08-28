@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Mishra</h1>
 <h3 align="center">I am a student learning programming</h3>
 
-- 🔭 I’m currently working on **Programming**
+- 🔭 I’m currently learning on **Programming**
 
 - 🌱 I’m currently learning **SQL**
 
