@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently learning on **Programming**
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Node.JS**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, Bootstrap, Tailwind**
 
