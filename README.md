@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node.JS**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, Bootstrap, Tailwind**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, Bootstrap, Tailwind, SQL, Node.JS and Git command line**
 
 - 📫 How to reach me **satyammishradeveloper@gmail.com**
 
