@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif" width="300px">
 
 - 🌱 I’m currently learning **React.JS**
 
@@ -9,6 +8,7 @@
 - 📫 How to reach me **satyammishradeveloper@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+- <img src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif" width="300px">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
