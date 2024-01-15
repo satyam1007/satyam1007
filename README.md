@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.JS**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind, SQL, Node.JS, TypeScript, React.JS**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind, JQuery SQL, Node.JS, TypeScript, React.JS**
 
 - 📫 How to reach me **satyammishradeveloper@gmail.com**
 
