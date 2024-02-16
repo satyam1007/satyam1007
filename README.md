@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Satyam Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 I’m currently working on **React.JS Projects**
+- 
 - 🌱 I’m currently learning **React.JS**
+
+- - 👨‍💻 All of my projects are available at [https://vercel.com/satyam-mishras-projects-5071a381](https://vercel.com/satyam-mishras-projects-5071a381)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind, JQuery SQL, Node.JS, TypeScript, React.JS**
 
