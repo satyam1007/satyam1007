@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="http://127.0.0.1:5500/languageAndTools.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1200px-HTML5_Badge.svg.png" alt="" width="50px"></a>   <a href="http://127.0.0.1:5500/cssIcon.html" target="_blank"> <img
+<a href="http://127.0.0.1:5500/htmlIcon.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1200px-HTML5_Badge.svg.png" alt="" width="50px"></a>   <a href="http://127.0.0.1:5500/cssIcon.html" target="_blank"> <img
       src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css" width="50px"></a> <a href="http://127.0.0.1:5500/jsIcon.html" target="_blank"> <img
       src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="42px"></a> <a href="http://127.0.0.1:5500/bootstrapIcon.html" target="_blank"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"
