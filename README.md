@@ -5,7 +5,7 @@
 - 
 - 🌱 I’m currently learning **React.JS**
 
-- - 👨‍💻 All of my projects are available at [https://vercel.com/satyam-mishras-projects-5071a381](https://vercel.com/satyam-mishras-projects-5071a381)
+- 👨‍💻 All of my projects are available at [https://vercel.com/satyam-mishras-projects-5071a381](https://vercel.com/satyam-mishras-projects-5071a381)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind, JQuery SQL, Node.JS, TypeScript, React.JS**
 
