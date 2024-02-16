@@ -30,4 +30,4 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"
       alt="typescript" width="50px"></a>   <a href="http://127.0.0.1:5500/reactjsIcon.html" target="_blank"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
-      alt="reactjs" width="60px"></a></p>
+      alt="reactjs" width="55px"></a></p>
