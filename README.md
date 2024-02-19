@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.JS**
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/allProjects.html)
+- 👨‍💻 All of my projects are available at [https://all-projects-umber.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind, JQuery SQL, Node.JS, TypeScript, React.JS**
 
