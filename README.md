@@ -30,7 +30,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satyam1007&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=satyam1007&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=satyam1007&theme=tokyonight" />
 </p>
 
 ---
