@@ -23,17 +23,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
 
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
+  <strong>💻 My GitHub Stats</strong><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=satyam1007&show_icons=true&theme=tokyonight" />
-  <br/>
+  <br/><br/>
+  <strong>🔥 GitHub Streak</strong><br/>
   <img src="https://streak-stats.demolab.com/?user=satyam1007&theme=tokyonight" />
 </p>
 
----
 
 ### 📫 Connect with me
 
