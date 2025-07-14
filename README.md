@@ -13,7 +13,7 @@
 - 🌱 Deep diving into **Python & its frameworks**
 - 🤝 Open for **collaboration on interesting projects**
 - ✉️ Reach me at: **satyammishradeveloper@gmail.com**
-- 😄 Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
+- 😄 Fun fact: **I Think I am Funny**
 
 ---
 
