@@ -1,36 +1,47 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Role] from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm Satyam Mishra</h1>
+<h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
 
-- 🔭 I’m currently working on **[Your Project]**
-- 🌱 I’m currently learning **[Technology/Stack]**
-- 👯 I’m looking to collaborate on **[Open Source/Startup/Etc]**
-- 💬 Ask me about **[Things you're good at]**
-- 📫 How to reach me: **[Your Email or LinkedIn]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 🔭 I’m currently working on **a Web App**
+- 🌱 I’m currently learning **Python**
+- 👯 I’m looking to collaborate on **Python-based projects**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind**
+- 📫 Reach me at: **satyammishradeveloper@gmail.com**
+- ⚡ Fun fact: **I think I'm funny (and I just might be 😄)**
 
 ---
 
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <!-- Add more icons as per your skills -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satyam-mishra&show_icons=true&theme=tokyonight" alt="Satyam's GitHub stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam-mishra&theme=tokyonight" alt="Satyam's GitHub streak"/>
 </p>
 
 ---
 
-### 📫 Connect with me:
+### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+<p align="left">
+  <a href="https://www.linkedin.com/in/satyam-mishra-202681368/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/mishra07_dev" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
+  </a>
+</p>
